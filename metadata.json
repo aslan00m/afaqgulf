@@ -1,0 +1,6 @@
+{
+  "name": "آفاق الخليج العربي",
+  "description": "الخدمات الاستشارية المتكاملة للراغبين بالاستثمار والانتقال وأسواق المال والأعمال في منطقتي الخليج العربي والمملكة العربية السعودية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
