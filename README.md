@@ -19,4 +19,4 @@ View your app in AI Studio: https://ai.studio/apps/2cfe98e9-43fa-49f6-bb18-eb701
 3. Run the app:12
    `npm run dev`
 
-   112git add . && git commit -m "update" && git push origin main
+   git add . && git commit -m "update" && git push origin main
